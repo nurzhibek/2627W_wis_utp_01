@@ -9,7 +9,7 @@ public class Main {
         Adder adder = new Adder();
         System.out.println(adder.add(1, 2));
 
-        Subtractor subrtractor = new Subtractor();
+        Subtractor subtractor = new Subtractor();
         System.out.println(subtractor.subtract(6, 3));
     }
 }
