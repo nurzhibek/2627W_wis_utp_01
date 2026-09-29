@@ -2,6 +2,8 @@ import java.sql.SQLOutput;
 
 // TODO: we need to add missing classes!
 
+// OK, I will add 'Subtractor' and s36160 will add 'Adder'
+
 public class Main {
     public static void main(String[] args) {
         Adder adder = new Adder();
